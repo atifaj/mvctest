@@ -1,0 +1,14 @@
+com\springapp\Service\ShopServiceImpl.class
+com\springapp\config\ServiceConfig.class
+com\springapp\config\AppConfig.class
+com\springapp\config\ServletInitializer.class
+com\springapp\mvc\Controller\HelloController.class
+com\springapp\mvc\model\UserForm.class
+com\springapp\mvc\Controller\LoginController.class
+com\springapp\config\DAOConfig.class
+com\springapp\config\WebConfig.class
+com\springapp\dao\ShopRepository.class
+com\springapp\mvc\model\ShopForm.class
+com\springapp\mvc\Controller\RegisterationController.class
+com\springapp\dao\model\Shop.class
+com\springapp\Service\ShopService.class

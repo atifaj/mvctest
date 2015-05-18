@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" name="Default" comment="" />
+    <ignored path="mvctest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="C:/projects/soms/soms-app/soms-app.iws" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411021372815" ignored="false" />
+    <file path="/pom.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1419985475068" ignored="false" />
+    <file path="/mvc-dispatcher-servlet.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395190137410" ignored="false" />
+    <file path="/HelloController.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420764254829" ignored="false" />
+    <file path="/shop.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392094539071" ignored="false" />
+    <file path="/result.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390901665279" ignored="false" />
+    <file path="/AppTests.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390523689036" ignored="false" />
+    <file path="C:/spring-mvc-showcase/.idea/workspace.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390522930705" ignored="false" />
+    <file path="C:/spring-mvc-showcase/.idea/modules.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390522820654" ignored="false" />
+    <file path="C:/spring-mvc-showcase/.idea/misc.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390522820654" ignored="false" />
+    <file path="C:/spring-mvc-showcase/.idea/compiler.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390522854012" ignored="false" />
+    <file path="C:/spring-mvc-showcase/pom.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390523007132" ignored="false" />
+    <file path="/Shop.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1419997721924" ignored="false" />
+    <file path="/P3SchedulerManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393478591192" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/P3SchedulerManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393478613969" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/java/au/com/fxa/dsc/soms/docusume/web/action/AddFileAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391035166315" ignored="false" />
+    <file path="/AddFileAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1390969503389" ignored="false" />
+    <file path="/Dummy.txt" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590654470" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/java/au/com/fxa/dsc/soms/docusume/web/form/UploadForm.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391035166315" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/java/au/com/fxa/dsc/soms/docusume/web/WebConstants.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391034917641" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/docs/upload.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391034917641" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/java/au/com/fxa/dsc/soms/docusume/web/action/EnterDetailsAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391035166315" ignored="false" />
+    <file path="/a.dummy" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411689823700" ignored="false" />
+    <file path="C:/projects/pipe/BI/PIPE/environments/test.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391142708413" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/fop/quote.fo" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420604676251" ignored="false" />
+    <file path="/fragment.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1419998400616" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/flexiSpecDetails.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392084985625" ignored="false" />
+    <file path="/flexiSpecDetails.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392084940078" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/scripts/soms.js" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420160056589" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/JobManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395967002474" ignored="false" />
+    <file path="/JobManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395966962000" ignored="false" />
+    <file path="C:/projects/pipe/BI/PIPE/src/au/com/fxa/pipe/servlet/QuartzServlet.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392001834699" ignored="false" />
+    <file path="/QuartzServlet.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392001824237" ignored="false" />
+    <file path="/soms.js" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420160056589" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/widget/text.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391993076331" ignored="false" />
+    <file path="/text.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391991432604" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/admin/action/SitesAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391664869045" ignored="false" />
+    <file path="/SitesAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1391664616140" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/outsourcedJobDetails.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392000012290" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/flexiSpecSummaryApproval.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392001204842" ignored="false" />
+    <file path="/flexiSpecSummaryApproval.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392001167895" ignored="false" />
+    <file path="C:/projects/pipe/BI/PIPE/src/au/com/fxa/pipe/scheduler/EndOfMonthReportScheduler.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392002273662" ignored="false" />
+    <file path="/EndOfMonthReportScheduler.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392002232368" ignored="false" />
+    <file path="/ShopRepository.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420763756491" ignored="false" />
+    <file path="/HelloControllerTests.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410928045437" ignored="false" />
+    <file path="C:/projects/maketinghelp/marketinghelp/marketinghelp.iws" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392093792766" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/hibernate/LookupDaoHibernate.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392094774351" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/database.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420604934943" ignored="false" />
+    <file path="C:/projects/soms/soms-app/metadata/sql/customReports.sql" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1412129481774" ignored="false" />
+    <file path="/customReports.sql" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392174889855" ignored="false" />
+    <file path="/spring-security.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396851859167" ignored="false" />
+    <file path="/web.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395203127161" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/jobTimer.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392335353673" ignored="false" />
+    <file path="/jobTimer.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392335353673" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/common/header.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420160289916" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/decorators.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392338906865" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/timesheet.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392338937513" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/designStatus.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392338955036" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/promo.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392339036737" ignored="false" />
+    <file path="/log4j.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396242477596" ignored="false" />
+    <file path="/LoginController.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392354797974" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/log4j.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396242478610" ignored="false" />
+    <file path="C:/projects/xsm/xos/xpsbuild.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685584411" ignored="false" />
+    <file path="/xpsbuild.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685584411" ignored="false" />
+    <file path="C:/projects/xsm/xos/build.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685571915" ignored="false" />
+    <file path="/build.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685571915" ignored="false" />
+    <file path="C:/projects/xsm/elog/webapps/xsm/WEB-INF/src/au/com/fujixerox/elog/cases/biz/ClarifyCaseManagerTest.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685635868" ignored="false" />
+    <file path="C:/projects/xsm/xos/webapps/xps/WEB-INF/classes/xos.hibernate.cfg.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/product/installation/machine/hibernate/InstalledMachineHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/contract/hibernate/ContractMeteredPriceHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/address/hibernate/AddressHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/ServiceJobReportLineHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/BatchRunHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/contract/hibernate/ContractChargeHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/JobStoryReferenceHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/product/installation/machine/meter/hibernate/CorrectionAuditMeterReadingHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/ServiceJobArchivedHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/contract/hibernate/InvoiceHeaderHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/contract/hibernate/InstallmentHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/product/installation/machine/meter/hibernate/MeterReadingHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/ServiceJobActiveAuditHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/service/hibernate/JobStoryLineHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/xsm/fxabiz-impl-s21/fxabiz-impl-s21.jar!/au/com/fxa/s21/product/installation/machine/meter/hibernate/InstalledMachineMeterHO.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392685719128" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/applicationContext-service.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396240939695" ignored="false" />
+    <file path="C:/projects/xsm/xos/config/found_on_classpath/production/xos.proxool.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392767305658" ignored="false" />
+    <file path="C:/projects/xsm/xos/config/found_as_files/production/xos.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392767373557" ignored="false" />
+    <file path="C:/projects/xsm/xos/XOS.iws" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392767587737" ignored="false" />
+    <file path="/applicationContext-service.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396239569695" ignored="false" />
+    <file path="/database.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392862699199" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/Contract.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392862625475" ignored="false" />
+    <file path="/*.regexp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420605977053" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/websevices/p3/P3WebServiceClient.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1412048663414" ignored="false" />
+    <file path="/P3WebServiceClient.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1412048654109" ignored="false" />
+    <file path="C:/projects/soms/soms-batch/conf/applicationContext-transaction.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392873701699" ignored="false" />
+    <file path="/applicationContext-transaction.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1392873676559" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/quartz.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393195170174" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/applicationContext-resources.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395879979823" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/flexiSpecSummary.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393203925883" ignored="false" />
+    <file path="/flexiSpecSummary.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393203911725" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/PaperSize.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393216189309" ignored="false" />
+    <file path="/PaperSize.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393204066870" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/PrintOption.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393216270854" ignored="false" />
+    <file path="/PrintOption.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393216269418" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/JobManager.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393383149634" ignored="false" />
+    <file path="/compass.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393543075426" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/compass.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393543596397" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/WebserviceInvocator.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393384445986" ignored="false" />
+    <file path="/applicationContext-resources.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395876275237" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/listener/StartupListener.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396241458112" ignored="false" />
+    <file path="/StartupListener.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396241387378" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxws-rt.jar!/com/sun/xml/ws/client/BindingProviderProperties.class" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxws-rt.jar!/com/sun/xml/ws/developer/JAXWSProperties.class" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/xjc/reader/dtd/bindinfo/bindingfile.rng" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/xjc/reader/xmlschema/bindinfo/xjc.xsd" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/xjc/reader/dtd/bindinfo/bindingfile.xsd" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/xjc/reader/xmlschema/bindinfo/xs.xsd" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/xjc/reader/xmlschema/bindinfo/binding.xsd" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/META-INF/maven/com.sun.codemodel/codemodel/pom.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="C:/projects/soms/soms-app/lib/jaxws-ri/jaxb-xjc.jar!/com/sun/tools/jxc/gen/config/config.xsd" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1393500151581" ignored="false" />
+    <file path="/spring-jpa.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395116930669" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/resources/applicationContext-dao.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395137417054" ignored="false" />
+    <file path="C:/SampleMVC-JPA/pom.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395137479198" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/webapp/WEB-INF/web.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395133776969" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/webapp/WEB-INF/decorators.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395133776969" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/webapp/WEB-INF/sitemesh.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395133776969" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/resources/hdiv-config.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395133776969" ignored="false" />
+    <file path="C:/SampleMVC-JPA/src/main/resources/applicationContext.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395133776969" ignored="false" />
+    <file path="/application-context-dao.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395136888922" ignored="false" />
+    <file path="/applicationContext-dao.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395137333827" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/filter/SOMSAfterInvocationInterceptor.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395794012050" ignored="false" />
+    <file path="/SOMSAfterInvocationInterceptor.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395708819151" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/ApplicationResources.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410499846167" ignored="false" />
+    <file path="/Producer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395888862233" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/Producer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395889125649" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/Contract.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395795705396" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/Consumer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395811377493" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/JMSProducer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395899150794" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/JMSConsumer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395897720630" ignored="false" />
+    <file path="/JMSConsumer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395896682601" ignored="false" />
+    <file path="/JMSProducer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395899075127" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/Job.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395893510708" ignored="false" />
+    <file path="/Job.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395893499847" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/OutsourcedJobTicket.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395967019142" ignored="false" />
+    <file path="/OutsourcedJobTicket.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395966599510" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/form/OutsourcedJobSummaryForm.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395978596367" ignored="false" />
+    <file path="/OutsourcedJobSummaryForm.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395976122123" ignored="false" />
+    <file path="/ApplicationResources.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399852311814" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/action/OutsourcedJobSummaryAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395978596367" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/WorkflowQueue.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396237742039" ignored="false" />
+    <file path="/WorkflowQueue.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395985616166" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/WorkflowQueue.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396233280757" ignored="false" />
+    <file path="/WorkflowQueue.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395984158709" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/QueueDao.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395984836990" ignored="false" />
+    <file path="/QueueDao.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395984777016" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/WorkflowQueueDao.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396244275555" ignored="false" />
+    <file path="/WorkflowQueueDao.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1395984929434" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/hibernate/WorkflowQueueDaoHibernate.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399610631623" ignored="false" />
+    <file path="/WorkflowQueueDaoHibernate.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396244246350" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/WorkflowQueueManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396244374475" ignored="false" />
+    <file path="/WorkflowQueueManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396244370865" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/WorkflowQueueManager.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396238535327" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/hibernate/applicationContext-hibernate.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396231955057" ignored="false" />
+    <file path="/applicationContext-hibernate.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396231954613" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/WorkflowQueue.hbm.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396244579341" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/action/OutsourcedQuoteDetailsAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420604945212" ignored="false" />
+    <file path="/ShopService.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396929962733" ignored="false" />
+    <file path="/ShopServiceImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420763086791" ignored="false" />
+    <file path="/application-context-service.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1396932233259" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/dao/com/au/fxa/dsc/soms/dao/hibernate/JobDaoHibernate.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399508387411" ignored="false" />
+    <file path="/JobDaoHibernate.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399508359657" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/admin/form/ClientForm.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399852122462" ignored="false" />
+    <file path="/ClientForm.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399852120967" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/admin/addNewClient.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399852350267" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/printJobDates.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399873944025" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/summaryCatalogueJobDetails.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399873952597" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/summaryPrintJobDetails.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1399873961578" ignored="false" />
+    <file path="/Appconfig.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410414703744" ignored="false" />
+    <file path="/ServletInitializer.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410495434462" ignored="false" />
+    <file path="/DAOConfig.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1419987463225" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/WorkflowServiceImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410498687648" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/web/com/au/fxa/dsc/soms/webapp/action/JobSummaryAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410924522706" ignored="false" />
+    <file path="/JobSummaryAction.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410504483569" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/printQuoteSummaryEx.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410762599316" ignored="false" />
+    <file path="/printQuoteSummaryEx.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410762598890" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/include/designQuoteSummaryEx.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410933817196" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/email/jobHead.vm" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410924630264" ignored="false" />
+    <file path="/designQuoteSummaryEx.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1410933815519" ignored="false" />
+    <file path="C:/projects/soms/soms-app/metadata/SSO/plcFedMetadata.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1412125530805" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/docs/uploadProof.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411368207338" ignored="false" />
+    <file path="/plcFedMetadata.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1412125530805" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/build/docs/WEB-INF/web.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411436708444" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/docs/version_filled.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411437329130" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/src/docs/version.txt" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411436848491" ignored="false" />
+    <file path="C:/projects/soms/soms-docusume/version.txt" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411437178004" ignored="false" />
+    <file path="C:/projects/soms/soms-app/metadata/SSO/asbFedMetadata.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1411536262091" ignored="false" />
+    <file path="/header.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420160109684" ignored="false" />
+    <file path="/ShopServiceImplTest.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1419999590935" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/WEB-INF/pages/admin/userList.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420157504902" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/JobManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/JobActualsItemHistory.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/TaskEscalationManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-docusume/build.xml" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/WorkflowServiceImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/JobActualsItem.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/Job.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/Site.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/WASPServiceInvocator.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/User.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/conf/database.properties" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/model/JobCostItem.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419323837" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-docusume/version.txt" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420419434188" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-docusume/src/java/au/com/fxa/compass/UploadServlet.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/soms/soms-app/web/admin/index.jsp" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420432296497" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/metadata/sql/hub_rel.sql" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/metadata/sql/customReports.sql" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/SOMS_REL_HUB/soms/soms-app/src/dao/com/au/fxa/dsc/soms/WorkflowConstants.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420590563721" ignored="false" />
+    <file path="C:/projects/soms/soms-app/conf/fop.xconf" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420603242466" ignored="false" />
+    <file path="/quote.fo" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420604672764" ignored="false" />
+    <file path="/UserManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420767148989" ignored="false" />
+    <file path="C:/projects/soms/soms-app/src/service/com/au/fxa/dsc/soms/service/impl/UserManagerImpl.java" changelist="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" time="1420767155976" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mvctest$HelloControllerTests.coverage" NAME="HelloControllerTests Coverage Results" MODIFIED="1392182402680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mvctest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="231" column="140" selection-start="8287" selection-end="8287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/dao/ShopRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="75" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="110" selection-start="1672" selection-end="1672" vertical-scroll-proportion="0.81615925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shop.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/dao/model/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="44" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="13" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="23" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopServiceImplTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/Service/ShopServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="7" selection-start="617" selection-end="938" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletInitializer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/ServletInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="39" selection-start="1048" selection-end="1070" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="5" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/Appconfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/ServiceConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/conf/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/config/DAOConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/controller/HelloControllerTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springapp/Service/ShopServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/dao/ShopRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/dao/model/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/HelloController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="mvctest" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="mvctest" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="war" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="mvctest" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="mvctest" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvctest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.springapp.Service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springapp.config" />
+      <recent name="com.springapp.mvc.Controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\temp\mvctest\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.springapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\temp\mvctest\src\main\conf" />
+      <recent name="C:\temp\mvctest\src\main\resources" />
+      <recent name="C:\temp\mvctest\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dappbase=C:\temp\mvctest\src\main\conf" />
+      <deployment>
+        <artifact name="mvctest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_mvctest" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64325" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.HelloControllerTests" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ebd2f8d-bda5-4974-aaa4-1df9bbad6e59" name="Default" comment="" />
+      <created>1390450979842</created>
+      <updated>1390450979842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40399557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20757738" sideWeight="0.5960044" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18196371" sideWeight="0.5960044" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5749168" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20597652" sideWeight="0.5361513" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.0.RELEASE/spring-web-4.1.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="29" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.63919824" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/conf/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="31" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/ServiceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="922" selection-end="935" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/controller/HelloControllerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="88" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/DAOConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="19" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="140" selection-start="8287" selection-end="8287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/config/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="39" selection-start="1048" selection-end="1070" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.2.0.RELEASE/spring-data-jpa-1.2.0.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="339" selection-end="339" vertical-scroll-proportion="0.19101124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/Service/ShopServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="7" selection-start="617" selection-end="938" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/dao/model/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="44" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/dao/ShopRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="75" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/Service/ShopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="5" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="110" selection-start="1672" selection-end="1672" vertical-scroll-proportion="0.81615925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
